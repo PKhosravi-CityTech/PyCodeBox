@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.10.12-red.svg)](https://www.python.org/downloads/release/python-31012/)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)
 
 # PyCodeBox
 
